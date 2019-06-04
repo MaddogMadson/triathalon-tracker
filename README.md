@@ -1,5 +1,5 @@
 # triathalon-tracker
-First application that both tracks workouts for training purposes as well as live stats of the triathalon
+First application that both tracks workouts for training purposes as well as stats for the triathalon
 
 Key Functionality I want included:
 - Workout Tracker for the following types of workouts (Running, Biking, Swimming, Rowing, Lifting, Walking) with great granularity (splits, lifts, times, HIIT, etc.)
